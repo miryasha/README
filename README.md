@@ -1,1 +1,4 @@
-<img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:http://www.miryasha.com" alt="">
+
+<img src="https://aleen42.github.io/badges/src/nissan.svg" alt="nissan">
+
+<img src="https://aleen42.github.io/badges/src/photoshop.svg" alt="photoshop">
