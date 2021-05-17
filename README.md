@@ -1,1 +1,1 @@
-<img alt="npm bundle size" src="https://img.shields.io/bundlephobia/min/dfdf?color=sdfsdf&label=sdf">
+https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
